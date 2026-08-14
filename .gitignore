@@ -1,0 +1,12 @@
+# Python / Virtual Environment
+.venv/
+__pycache__/
+*.pyc
+
+# Local Databases & Temp Files
+chroma_db/
+data/
+.env
+
+# Streamlit
+.streamlit/
