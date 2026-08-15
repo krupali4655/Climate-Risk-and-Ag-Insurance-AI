@@ -1,0 +1,11 @@
+streamlit
+groq
+langchain
+langchain-community
+langchain-text-splitters
+fastembed
+chromadb
+pypdf
+requests
+python-dotenv
+fastmcp
